@@ -157,8 +157,6 @@ section{
     display: flex;
     padding: 20px;
     position: relative;
-    align-items: center;
-    justify-content: center;
     background-color: #7f7f7bc1;
 }
 div.skills{
